@@ -5,9 +5,11 @@ date = 2024-01-14T07:07:07+01:00
 url = 'books/Mark'
 +++
 
-# Mark: Tainted Ambition - Sociopath LitRPG Fantasy Novel
+![](/images/mark.png)
 
-## Book Description:
+>A menacing figure named Mark, radiating an aura of power and danger, takes center stage on the book cover. He is cloaked in darkness with a black hood and a sinister mask featuring a glowing red cross and a chilling smile. A black pillar rises behind him, adding to the atmosphere of intimidation. Streaks of red and orange emanate from Mark, suggesting a supernatural or corrupt energy. The background remains relatively muted and atmospheric, allowing the focus to stay on the imposing figure and the vibrant colors associated with him. The title, "Mark," is displayed in a bold, red, gothic-style font at the bottom, emphasizing the character's dark nature. Below the name, the tagline "Tainted Ambition - Sociopath LitRPG Fantasy Novel" is presented in a clean, white, sans-serif font, providing context for the character and genre of the story.
+
+Book Description:
 
 Follow Mark, a young man devoid of empathy, on his ruthless quest for power. Haunted by a traumatic past, he uses his charm and cunning to manipulate and climb the social ladder, leaving destruction in his wake.
 
@@ -18,6 +20,9 @@ Delve into a tale of dark fantasy, psychological intrigue, and political machina
 [LitRPG Fantasy]
 
 *2100 words average; 2 PM CET*
+
+![](/images/markbreaker.png)
+
 
 ## Chapter 1 - Unleashing the Machinations: A Gambit Unfolds
 

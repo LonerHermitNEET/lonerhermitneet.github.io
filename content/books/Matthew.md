@@ -5,13 +5,17 @@ date = 2024-01-14T07:07:07+01:00
 url = 'books/Matthew'
 +++
 
-# Matthew: The Epitome of Grace and Beauty - An Intellectual Psychological Isekai LitRPG
+![](/images/matthew.png)
 
-## Book Description:
+>A man named Matthew with dark hair and a smirk stands on a rooftop, extending his hand toward the viewer as if inviting them in. He's dressed in elegant, dark clothing with a pop of color from a red-orange undershirt. The background is a city at night, bathed in cool blue tones with buildings silhouetted against the sky. The title, "Matthew," is written in a bold, white, handwritten font at the bottom of the image. Below the title, in a smaller, simpler font, is the tagline: "The Epitome of Grace and Beauty - An Intellectual Psychological Isekai LitRPG"
+
+Book Description:
 
 Matthew, a once ordinary man, had his life abruptly snatched away. Despite a content existence on Earth, surrounded by loved ones and knowledge, he found himself thrust into a new world, devoid of care or compassion. Struggling to adapt, he relied on his intellect to navigate the chaos around him. Every action held consequence, with death lurking at every turn. Determined to maintain his sanity and control, he sought to make sense of his surroundings and establish dominance. Yet, beneath his turmoil, a realization dawned—to survive, he must embody grace and beauty, transcending the chaos that engulfed him. He would become the epitome of grace and beauty. He was not crazy. He was just like everyone else. But he had to become everything.
 
 *1 chapter everyday; 2500 average word count; 2 PM CET*
+
+![](/images/matthewbreaker.png)
 
 ## Chapter 1 - A World Apart
 

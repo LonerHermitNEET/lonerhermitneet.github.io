@@ -5,16 +5,19 @@ date = 2024-01-14T07:07:07+01:00
 url = 'books/Antipolo'
 +++
 
+![](/images/antipolo.png)
 
-# Antipolo: Ascent of the Exceptional - Open-World City Fantasy Novel
+>The book cover features a beautifully illustrated map showcasing a sprawling city with towering spires, intricate architecture, and lush greenery. The map appears aged, with a parchment-like texture, torn edges, and visible lines suggesting folded sections, alluding to a sense of history and adventure. A large tree adorns the left side of the map, adding a touch of nature to the urban landscape. The title "Antipolo" is prominently displayed in a classic, gold-colored serif font, evoking a feeling of grandeur and sophistication. Below the title, the descriptive text "Ascent of the Exceptional - Open-World City Fantasy Novel" is presented in a smaller, white, sans-serif font, providing context for the genre and setting of the story.
 
-## Book Description:
+Book Description:
 
 The city itself becomes a character, a complex and ever-changing landscape that both shapes and is shaped by the lives of its inhabitants. From the struggles of the working class to the power plays of the elite, the story delves into the personal stories and aspirations of its diverse cast as they grapple with trauma, rebuild their communities, and confront deep-seated tensions bubbling beneath the surface. As the city undergoes periods of peace, crisis, and recovery, the boundaries between reality and magic continue to shift, leading to a reshuffling of the social and political order. This story immerses the reader in the rich tapestry of urban life, where the personal and the epic intertwine, and the search for meaning and resilience is ever-present.
 
 *Average chapter length: 2500; 2:00 PM CET*
 
 *Average chapter length: 22,000 words from Chapter 42 onward*
+
+![](/images/antipolobreaker.png)
 
 ## Chapter 1 - Laborer
 
