@@ -9675,7 +9675,7 @@ The good thing about having the assembly disperse then was that it was advisable
 
 Once he made that conclusion, he returned to calm.
 
-[Calm Walker]: All calming and mindfulness effects on you is increased by 10%!
+**[Calm Walker]: All calming and mindfulness effects on you is increased by 10%!**
 
 # Chapter 52 - The Communion of Witchman
 
@@ -9786,7 +9786,7 @@ Matthew looked around him, wishing for splendor for the third time, but he found
 
 He took a deep breath and moved on.
 
-[Calm Walker]: All calming and mindfulness effects on you is increased by 10%!
+**[Calm Walker]: All calming and mindfulness effects on you is increased by 10%!**
 
 However mundane his world was, his ideals would eventually penetrate the hexagonal barrier fabric sphere of magic, control, power, and longer society.
 
