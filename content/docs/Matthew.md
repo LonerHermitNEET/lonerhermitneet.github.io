@@ -585,17 +585,17 @@ In the distance, a goblin provided a means for him to analyze something. If he c
 
 However, as he began his cursory glance across the goblin's body, holographic text popped up.
 
-Name: Mawkery
+**Name: Mawkery**
 
-Species: Goblin
+**Species: Goblin**
 
-Age: 6
+**Age: 6**
 
-Skills: Red Bite
+**Skills: Red Bite**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 8
+**Vitality: 8**
 
 Matthew stopped following the adventurers, as they closed in on a group of goblins which included the one he was assessing. "What..."
 
@@ -1409,17 +1409,17 @@ In the meantime, in a tent nearby, the king of Matthew's city state watched Mawk
 
 The king smirked with his whole face, his wrinkles forming the darkest shadows.
 
-Name: King Aethelred III
+**Name: King Aethelred III**
 
-Species: Human
+**Species: Human**
 
-Age: ?
+**Age: ?**
 
-Skills: ?
+**Skills: ?**
 
-Spells: ? / ?
+**Spells: ? / ?**
 
-Vitality: ?
+**Vitality: ?**
 
 Catching the attention of the crowd, he walked back toward his tent and saw Matthew sitting down, but he wasn't informed of his significance, only sparing him a glance.
 
@@ -7876,19 +7876,19 @@ For context, his swords and spears usually only added around 25 to 40 damage, an
 
 The [System], grinning behind the scenes, showed him the blade in [System] form as requested.
 
-Name: Michel's Ghost Blade
+**Name: Michel's Ghost Blade**
 
-Stats:
+**Stats:**
 
-+60 Attack Damage
+**+60 Attack Damage**
 
-Passive - Necrotic Affliction:
+**Passive - Necrotic Affliction:**
 
-Basic attacks apply a stack of Necrotic Affliction to the target for 4 seconds, stacking up to 5 times. Each stack reduces the target's armor and magic resistance by 2%. At maximum stacks, the target is also afflicted with Grievous Wounds, reducing incoming healing and regeneration effects by 40%.
+**Basic attacks apply a stack of Necrotic Affliction to the target for 4 seconds, stacking up to 5 times. Each stack reduces the target's armor and magic resistance by 2%. At maximum stacks, the target is also afflicted with Grievous Wounds, reducing incoming healing and regeneration effects by 40%.**
 
-Active - Necrotic Surge:
+**Active - Necrotic Surge:**
 
-Empower your next basic attack within 5 seconds to unleash a necrotic-infused strike, dealing 50 (+40% bonus AD) bonus physical damage and consuming all stacks of Necrotic Affliction. Each stack consumed increases the damage by 20% and extends the duration of Grievous Wounds by 1 second, up to a maximum of 3 additional seconds.
+**Empower your next basic attack within 5 seconds to unleash a necrotic-infused strike, dealing 50 (+40% bonus AD) bonus physical damage and consuming all stacks of Necrotic Affliction. Each stack consumed increases the damage by 20% and extends the duration of Grievous Wounds by 1 second, up to a maximum of 3 additional seconds.**
 
 Before the fight with Tamer, he already had placed his points into [Health].
 
@@ -14890,4 +14890,5 @@ But it could kill with one hook.
 Luke didn't want to ask the question.
 
 The orc was the one who shouted it, "Who will fight me!"
+
 
