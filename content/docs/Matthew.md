@@ -709,7 +709,7 @@ As soon as they returned home, Matthew tucked himself inside an inn, and he chec
 
 **Quests: None**
 
-Nice job rocking that fight! The gods are totally keeping an eye on you! 😇 Your reward? Way more XP than usual—12,000+!
+**Nice job rocking that fight! The gods are totally keeping an eye on you! 😇 Your reward? Way more XP than usual—12,000+!**
 
 "The hell does that even mean—"
 
@@ -1019,7 +1019,7 @@ Matthew responded with a brilliant smile.
 
 He used a spear and struck a goblin, his heart pumping, his face terrified, but a smile flapping its wings on his face.
 
-Sweet takedown on that goblin! You just earned yourself a cool 1+ XP for that win! 🎉
+**Sweet takedown on that goblin! You just earned yourself a cool 1+ XP for that win! 🎉**
 
 He, next to shields all over, grabbed a falling goblin and shoved it against the ground, locking it in place.
 
@@ -1027,19 +1027,19 @@ However, he was slow, and the goblin bit and scratched Matthew's body continuous
 
 Before the goblin could kill Matthew, one of the adventurers stabbed a spear against the goblin's neck.
 
-Loss Condition:
+**Loss Condition:**
 
-If the player fails to eliminate 5 goblins within the specified time limit of 50 minutes, the quest will be considered failed.
+**If the player fails to eliminate 5 goblins within the specified time limit of 50 minutes, the quest will be considered failed.**
 
-Consequences of Failure:
+**Consequences of Failure:**
 
-The player will not receive the Experience Points (XP) Boost.
+**The player will not receive the Experience Points (XP) Boost.**
 
-The Rare Loot Drop Chance Increase will not be granted.
+**The Rare Loot Drop Chance Increase will not be granted.**
 
-Gold Coins promised as a reward will not be given.
+**Gold Coins promised as a reward will not be given.**
 
-The Exclusive Goblin Slayer Title will not be earned.
+**The Exclusive Goblin Slayer Title will not be earned.**
 
 Matthew saw the beauty of tens of spells being launched at once, while the goblins shot volleys from a distance. In the crossfire, a hundred goblins died. Since the battle was systematic and organized in the adventurers' favor, not a single adventurer died in this crossfire.
 
@@ -2154,7 +2154,7 @@ He broke and allowed himself to fall to his knees with his forearms resting agai
 
 After he spent 45 minutes in that position to contemplate, the [System] recognized his efforts.
 
-You've leveled up your wellbeing by diving into the past and crafting a stronger, more authentic version of yourself. 🚀 Way to go, champ! 🌟 Here's 10 XP to boost your progress even further! 💥
+**You've leveled up your wellbeing by diving into the past and crafting a stronger, more authentic version of yourself. 🚀 Way to go, champ! 🌟 Here's 10 XP to boost your progress even further! 💥**
 
 "The fuck... When did I become a statistic?" He was serious for a moment before he burst into genuine laughter. "What the hell is me..." He smiled, tears dripping down, before he stared at the dark, seeing two eyes staring back at him.
 
@@ -2847,31 +2847,31 @@ He stabbed a goblin charging at one of his adventurer friends.
 
 The [System] supported his journey.
 
-Kudos! That goblin takedown was pure genius! 🌟 Your reward? A cool 1+ XP for the win! 🎉
+**Kudos! That goblin takedown was pure genius! 🌟 Your reward? A cool 1+ XP for the win! 🎉**
 
-Smooth move! Your swift defeat of the goblin earns you a sweet 1+ XP boost! 🚀 Keep up the momentum! 🎉
+**Smooth move! Your swift defeat of the goblin earns you a sweet 1+ XP boost! 🚀 Keep up the momentum! 🎉**
 
-Incredible job with that goblin takedown! 🔥 Enjoy your 1+ XP reward for the victory! You're on fire! 🎉
+**Incredible job with that goblin takedown! 🔥 Enjoy your 1+ XP reward for the victory! You're on fire! 🎉**
 
 His new skill was [Whirlwind Waltz], and he got it because its cast time was instant.
 
-Whirlwind Waltz (Level 1)
+**Whirlwind Waltz (Level 1)**
 
-Cost: 100 Mana
+**Cost: 100 Mana**
 
-Cooldown: 8 hours
+**Cooldown: 8 hours**
 
-Cast Time: Instant
+**Cast Time: Instant**
 
-Effect Radius: 250
+**Effect Radius: 250**
 
-Active: The user gracefully dances, creating a whirlwind of energy around them that lasts for 4 seconds. Enemies within the whirlwind are lifted off the ground, unable to move or attack for 1.5 seconds. After the whirlwind dissipates, affected enemies are slowed by 30\% for 2 seconds.
+**Active: The user gracefully dances, creating a whirlwind of energy around them that lasts for 4 seconds. Enemies within the whirlwind are lifted off the ground, unable to move or attack for 1.5 seconds. After the whirlwind dissipates, affected enemies are slowed by 30\% for 2 seconds.**
 
-Duration: 4 seconds
+**Duration: 4 seconds**
 
-Immobilization Duration: 1.5 seconds
+**Immobilization Duration: 1.5 seconds**
 
-Slow Duration: 2 seconds
+**Slow Duration: 2 seconds**
 
 Matthew shouted, fighting alongside the adventurers. In the meantime, Rodney and his team were breaking block-shaped objects littered in the distance.
 
@@ -5050,15 +5050,15 @@ He smiled with disdain.
 
 With the goblin prepared, as Witchman ran, he adjusted his aim and gutted it on the neck, moving his breathing with precision.
 
-Impressive takedown! You've just scored a solid 7+ XP for that solo victory! 🎉
+**Impressive takedown! You've just scored a solid 7+ XP for that solo victory! 🎉**
 
 He looked for another one and immediately pierced it on the same spot. He was becoming more adamant. He was charging them one by one and catching them off guard with how fast he angled and shifted the starting point of his spear thrusts. His arm muscles progressively gloated.
 
-Nicely done on that solo goblin takedown! Your skill earns you a cool 7+ XP! 🎉
+**Nicely done on that solo goblin takedown! Your skill earns you a cool 7+ XP! 🎉**
 
 He lacerated a single armored goblin three times consecutively, breaking its restarting momentum the same number of times.
 
-Great job defeating that armored goblin! You've earned yourself 42+ XP for your triumph! 🎉
+**Great job defeating that armored goblin! You've earned yourself 42+ XP for your triumph! 🎉**
 
 Several goblins appeared, trying to slow him down with their arrows.
 
@@ -5072,9 +5072,9 @@ The goblins were solo-killed one by one, not ever being able to relay the reinfo
 
 10 goblins in total were dispatched, and his [Whirlwind Waltz] was used.
 
-Great job defeating 3 armored goblins by yourself speedily! You've earned yourself 189+ XP for your triumph! 🎉 50% bonus XP due to speed!
+**Great job defeating 3 armored goblins by yourself speedily! You've earned yourself 189+ XP for your triumph! 🎉 50% bonus XP due to speed!**
 
-Great job defeating 4 goblins by yourself quickly! You've earned yourself 42+ XP for your triumph! 🎉 50% bonus XP due to speed!
+**Great job defeating 4 goblins by yourself quickly! You've earned yourself 42+ XP for your triumph! 🎉 50% bonus XP due to speed!**
 
 He celebrated the win.
 
@@ -5675,7 +5675,7 @@ Witchman used the skill against them even with the 0.75-second cast time, and th
 
 This was his first calculated kill.
 
-Great job defeating 4 goblins by yourself quickly! You've earned yourself 42+ XP for your triumph! 🎉 50% bonus XP due to speed!
+**Great job defeating 4 goblins by yourself quickly! You've earned yourself 42+ XP for your triumph! 🎉 50% bonus XP due to speed!**
 
 He didn't mention it before, but he was in debt. The war made food go up in price threefold, and he spent lots of money to organize adventurer quest events. He even quit his employee relations job to help out more, but he later realized that was a mistake.
 
@@ -6745,7 +6745,7 @@ To prove the practicality of this feat, Scrappy was already begining to sense hi
 
 Scrappy noticed his first skill [Whirlwind Waltz] slowly becoming more concrete in his senses. Even now, the sense of proprioception along with hand-to-eye coordination, among other senses and cognitive functions, converged cognitively to form a unitary amount.
 
-+10 XP for improving your cognition by 10% over the course of three months and two weeks. This message will be the first of many cognitive checks to verify and celebrate your efforts. Continue to be productive, hard worker!
+**+10 XP for improving your cognition by 10% over the course of three months and two weeks. This message will be the first of many cognitive checks to verify and celebrate your efforts. Continue to be productive, hard worker!**
 
 Even the [System] messages were shifting stylistically in response to this new gamified aspect.
 
@@ -6779,7 +6779,7 @@ The [System] opened his cloak and showed Matthew a floating holographic screen t
 
 He showed Scrappy one of his earlier notifications.
 
-Nice job rocking that fight! The gods are totally keeping an eye on you! 😇 Your reward? Way more XP than usual—12,000+!
+**Nice job rocking that fight! The gods are totally keeping an eye on you! 😇 Your reward? Way more XP than usual—12,000+!**
 
 "How does that change anything? What's so special about me? He said that, but he didn't actually think so normal as to feel encumbered. In fact, he was demonstrably ready to enact his will at any time. The fight was on.
 
@@ -7520,11 +7520,11 @@ Matthew used his skill [Whirlwind Waltz], crushing the goblins even more immedia
 
 He beat the first one that approached unstrategically to shreds with a spear, pulling them by their head aside.
 
-Well done on vanquishing the armored goblin! Your valor has granted you 42+ XP, marking a significant milestone in your journey! 🎉 Additionally, you've been bestowed with a temporary boost of +2 strength, courtesy of the city-wide enhancement known as the [Strength Beacon]. Embrace this newfound power as you continue your adventures!
+**Well done on vanquishing the armored goblin! Your valor has granted you 42+ XP, marking a significant milestone in your journey! 🎉 Additionally, you've been bestowed with a temporary boost of +2 strength, courtesy of the city-wide enhancement known as the [Strength Beacon]. Embrace this newfound power as you continue your adventures!**
 
 Retreating from the coming armored goblins, Matthew was surprise. Once outside, he looked around at the forest within the bounds of the city, using [Cattle Decapitation] at the coming goblins to make them hesitate before casting [Solipsistic Slaughter] to bring them to low health and then making rapid holes in them.
 
-Fantastic work vanquishing 5 formidable armored goblins! You've acquired a commendable 100+ XP for your valor! 🏆 You have also gained +10 temporary strength as part of the city-wide effect [Strength Beacon]!
+**Fantastic work vanquishing 5 formidable armored goblins! You've acquired a commendable 100+ XP for your valor! 🏆 You have also gained +10 temporary strength as part of the city-wide effect [Strength Beacon]!**
 
 Troubled by the 100-XP limit, he ignored it for the meantime and identified [Strength Beacon] with the [System]'s help.
 
@@ -9394,69 +9394,69 @@ He commanded, his hands becoming like ethereal whispers in the dark, emerging ag
 
 The infinite fabric representing the adventurers glowed and continued to reform itself as well.
 
-Great job defeating that armored goblin! You've earned a solid 42+ XP! 🎉
+**Great job defeating that armored goblin! You've earned a solid 42+ XP! 🎉**
 
-Bravo for vanquishing the armored goblin! Enjoy your well-deserved 42+ XP! 🎉
+**Bravo for vanquishing the armored goblin! Enjoy your well-deserved 42+ XP! 🎉**
 
-Congratulations on your triumph over the armored goblin! You've gained a generous 42+ XP! 🎉
+**Congratulations on your triumph over the armored goblin! You've gained a generous 42+ XP! 🎉**
 
-Excellent work on slaying the armored goblin! Your reward: 42+ XP! 🎉
+**Excellent work on slaying the armored goblin! Your reward: 42+ XP! 🎉**
 
-Fantastic job taking down the armored goblin! You've earned a hefty 42+ XP! 🎉
+**Fantastic job taking down the armored goblin! You've earned a hefty 42+ XP! 🎉**
 
-Kudos for defeating the armored goblin! Enjoy your 42+ XP reward! 🎉
+**Kudos for defeating the armored goblin! Enjoy your 42+ XP reward! 🎉**
 
-Outstanding effort in defeating the armored goblin! You've earned 42+ XP! 🎉
+**Outstanding effort in defeating the armored goblin! You've earned 42+ XP! 🎉**
 
-Well played in defeating the armored goblin! Claim your 42+ XP reward! 🎉
+**Well played in defeating the armored goblin! Claim your 42+ XP reward! 🎉**
 
-Way to go on conquering the armored goblin! You've gained 42+ XP! 🎉
+**Way to go on conquering the armored goblin! You've gained 42+ XP! 🎉**
 
-You did it! The armored goblin is no more! Enjoy your 42+ XP! 🎉
+**You did it! The armored goblin is no more! Enjoy your 42+ XP! 🎉**
 
-Amazing job on defeating the armored goblin! Your prize: 42+ XP! 🎉
+**Amazing job on defeating the armored goblin! Your prize: 42+ XP! 🎉**
 
-Hooray for defeating the armored goblin! Your reward awaits: 42+ XP! 🎉
+**Hooray for defeating the armored goblin! Your reward awaits: 42+ XP! 🎉**
 
-Impressive work on defeating the armored goblin! Enjoy your 42+ XP! 🎉
+**Impressive work on defeating the armored goblin! Enjoy your 42+ XP! 🎉**
 
-Magnificent victory over the armored goblin! You've earned 42+ XP! 🎉
+**Magnificent victory over the armored goblin! You've earned 42+ XP! 🎉**
 
-Remarkable job on taking down the armored goblin! Claim your 42+ XP! 🎉
+**Remarkable job on taking down the armored goblin! Claim your 42+ XP! 🎉**
 
-Superb effort in defeating the armored goblin! Your reward: 42+ XP! 🎉
+**Superb effort in defeating the armored goblin! Your reward: 42+ XP! 🎉**
 
-Terrific work on slaying the armored goblin! You've earned 42+ XP! 🎉
+**Terrific work on slaying the armored goblin! You've earned 42+ XP! 🎉**
 
-Well done for conquering the armored goblin! Enjoy your 42+ XP! 🎉
+**Well done for conquering the armored goblin! Enjoy your 42+ XP! 🎉**
 
-Bravo! The armored goblin has been defeated! Claim your 42+ XP! 🎉
+**Bravo! The armored goblin has been defeated! Claim your 42+ XP! 🎉**
 
-Congratulations on your victory over the armored goblin! You've gained 42+ XP! 🎉
+**Congratulations on your victory over the armored goblin! You've gained 42+ XP! 🎉**
 
-Excellent job on vanquishing the armored goblin! Enjoy your 42+ XP! 🎉
+**Excellent job on vanquishing the armored goblin! Enjoy your 42+ XP! 🎉**
 
-Great work on taking down the armored goblin! Your reward: 42+ XP! 🎉
+**Great work on taking down the armored goblin! Your reward: 42+ XP! 🎉**
 
-Kudos for defeating the armored goblin! You've earned a hefty 42+ XP! 🎉
+**Kudos for defeating the armored goblin! You've earned a hefty 42+ XP! 🎉**
 
-Outstanding performance in defeating the armored goblin! Claim your 42+ XP! 🎉
+**Outstanding performance in defeating the armored goblin! Claim your 42+ XP! 🎉**
 
-Splendid job on defeating the armored goblin! Enjoy your 42+ XP! 🎉
+**Splendid job on defeating the armored goblin! Enjoy your 42+ XP! 🎉**
 
-Well played! The armored goblin has been vanquished! You've gained 42+ XP! 🎉
+**Well played! The armored goblin has been vanquished! You've gained 42+ XP! 🎉**
 
-Amazing job on taking down the armored goblin! Your reward: 42+ XP! 🎉
+**Amazing job on taking down the armored goblin! Your reward: 42+ XP! 🎉**
 
-Hooray! You've defeated the armored goblin and earned 42+ XP! 🎉
+**Hooray! You've defeated the armored goblin and earned 42+ XP! 🎉**
 
-Magnificent work on conquering the armored goblin! Enjoy your 42+ XP! 🎉
+**Magnificent work on conquering the armored goblin! Enjoy your 42+ XP! 🎉**
 
-Remarkable victory over the armored goblin! Claim your 42+ XP reward! 🎉
+**Remarkable victory over the armored goblin! Claim your 42+ XP reward! 🎉**
 
 Matthew disappeared along with his infinite Hands of Creation, the infinite fabric in perfection.
 
-Underrated victory over the Great Spider Serpelvz! Claim your 1000+ XP reward! 🎉
+**Underrated victory over the Great Spider Serpelvz! Claim your 1000+ XP reward! 🎉**
 
 During the fight with the boss "Great Spider Serpelvz," the adventurers used the same boat to destroy it; cancelling its magical attacks with well-coordinated magic-resistant water skills and using lightning magic to disrupt actively whenever it was midway through its attacks.
 
@@ -9885,25 +9885,25 @@ But sometimes, a linear approach was necessary to help them hide while maintaini
 
 For each kill the goblins got, they got a notification distinct from what Matthew received.
 
-+76 XP 1+ skill point (Lvl. 9 Gladiator)
+**+76 XP 1+ skill point (Lvl. 9 Gladiator)**
 
-+103 XP 1+ skill point (Lvl. 15 Gladiator)
+**+103 XP 1+ skill point (Lvl. 15 Gladiator)**
 
 All of them levelled up to level 2 because the XP was shared between them.
 
 One of the goblins checked his status page.
 
-Name: Render
+**Name: Render**
 
-Species: Goblin
+**Species: Goblin**
 
-Age: 6
+**Age: 6**
 
-Skills: Red Bite
+**Skills: Red Bite**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 8
+**Vitality: 8**
 
 When it came to Matthew's perspective, he pondered about a pattern he had noticed for a long time now, but he never truly felt sure. Regular adult goblins only gave 7 XP on kill, and armored goblins gave 42 XP. It was a 600% increase when they were armoed. So regular adult humans probably gave around 30 XP, and if armored, they possibly gave 180 XP. As for levels, most of the goblins he had killed were only level 1, and it was probably because they often died immediately before killing enough creatures to level up. When it came to the number of XP levels added to the result, he guessed that it added 10 XP per level. However, he couldn't truly be sure since he had never killed enemies that varied in level to test. Moreover, he hadn't killed enough humans to see what adventurers and gladiators gave. He also wondered whether the class of an adventurer mattered or existed. The [System] never addressed it, so he didn't ever ask about it.
 
@@ -10017,13 +10017,13 @@ So he began eating all the giant ant legs, cleaning them all up.
 
 It was a simple, fun away for him to do something that felt good and tasted good.
 
-+10 XP (Eating Giant Ant Leg)
+**+10 XP (Eating Giant Ant Leg)**
 
 He noticed something strange about this notification. The more he spent time with the goblins, the more his notifications began emulating theirs.
 
 Even his kill notifications earlier had the same format.
 
-+90 XP (Lvl. 1 Giant Ant)
+**+90 XP (Lvl. 1 Giant Ant)**
 
 The songs of grace had blessed his awakening and presence.
 
