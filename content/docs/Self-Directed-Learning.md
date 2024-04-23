@@ -1,6 +1,6 @@
 +++
 title = 'Exploring the Efficacy of Independent Learning: An Informal Comparative Analysis with Formal Education'
-weight = 1
+weight = 2
 date = 2024-01-14T07:07:07+01:00
 +++
 
