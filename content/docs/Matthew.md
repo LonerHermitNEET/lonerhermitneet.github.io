@@ -10592,7 +10592,7 @@ The goblins were getting tired.
 
 The bright side was that Matthew was not suspected of anything despite his flamboyance and aggressive exploration due to warnings the King slipped into the guards' ears with regard to him. The witch orb that signified the King's connection with Matthew was currently under Matthew's hands, specifically still kept inside a pouch, where it leapt up and down as his momentum bounced.
 
-## Chapter 57
+## Chapter 57 - Marchacha
 
 After completing the Wall-eyes, Matthew accepted his reward and moved on, his focus moving over to the King's options for him.
 
@@ -10821,7 +10821,7 @@ They left together, heading back to the city to report the incident.
 
 This would start many successive events outside and within their plans.
 
-## Chapter 58 
+## Chapter 58 - Embracing the Hollowed Heart
 
 Other strategists back in Emerald Haven, Matthew's first city, considered the possibility of having the focus of King Aethelred III be with the fortified dungeon steps as the entry to a route leading to another more effective angle into their current objective instead of the route they were currently focusing on. However, the timing of the King was initially off, and he chose to focus his efforts elsewhere. Matthew could have very well been a much more effective leader if the King offered him the opportunity, but Aethelred was very passive and indifferent about it.
 
@@ -11079,7 +11079,7 @@ Even if Matthew lost his emotions, he never lost the sense of divinity.
 
 To finish, [Hollowed Heart] was changing everything fast. Matthew was right to change things and make things better to remove the cognitive dissonance between a broken displaced man and a powerful intellectual creature. And [Hollowed Heart] was cancelling out the former. But whatever happened from now on was out of any outsider's hands, except for the gods maybe.
 
-## Chapter 59
+## Chapter 59 - Weaving the Web of Influence
 
 Matthew was all alone in a vast landscape, and he walked around again and again.
 
@@ -11185,7 +11185,7 @@ Even with growing connectivity, he still maintained his loyalty to these locatio
 
 **+10 XP for enhancing your cognitive abilities by 1%!**
 
-## Chapter 60
+## Chapter 60 - Hollowed Heart: Managing the New Era
 
 Matthew stared at the silence, not a single emotion-inspired thought growing in his mind, the ideas flowing like river streams shallow enough to wade through but cold and wet enough to warrant a changing.
 
@@ -11261,7 +11261,7 @@ Matthew replied: "If she's the one being made to advance the new *birdmonsters*,
 
 That was it. That was the end of the meeting. They really had little to share since they were still testing the waters and avoiding any chance the other party could call offence or imbalance of power. Magic made things very dangerous in terms of how information was spread, because spells like changing voice existed. If two parties could converse easily without magic being a potential threat to integrity and honesty, then care still had to be prioritized when encountering new communication structures, that which Michel's friends and Matthew, as two novel interlocutors, brought to the table.
 
-## Chapter 61
+## Chapter 61 - The Pursuit of Perfection
 
 Matthew put together hundreds of men and assembled them with armor, tools, unique artifacts, and goals in mind. The point was to make sure that everything around him could find rest in the seat of power in their own way. He rewarded them with power by enabling a culture of camaraderie, one already supported by adventurism. He just made it many more times efficient at that job by making it easier for New Adventurers. Truly, he worked with Desmond to help New Adventurers, making sure he appeared to motivate the new entrants.
 
@@ -11373,7 +11373,7 @@ Silence left, as the [System] appeared.
 
 "Hi," he said.
 
-## Chapter 62
+## Chapter 62 - The Hollowed Crusade: Matthew's Descent into Moral Invalidation
 
 Matthew plunged his arm against a quiet throat, making sure that every single ounce of power was delivered in full. This was actual, and this was how rhythmic he was with murder even.
 
@@ -11571,7 +11571,7 @@ Second, with an intellectual gearset came the need to neutralize its demanding e
 
 Lastly, he was not changing into an idea. He was chasing after an idea with all the complexities that entailed for him.
 
-## Chapter 63
+## Chapter 63 - The Reckoning of the Imperfect God
 
 Matthew sat down, his mind a temple of peace.
 
@@ -11831,7 +11831,7 @@ Matthew burst into laugher, joined by the older man. They laughed simultaneously
 
 It was because things had become so tense that they couldn't help it at the first opportunity.
 
-## Chapter 64
+## Chapter 64 - Bing Chilling
 
 Matthew remembered what it felt like to sit down in the morning. He remembered the signs of the times.
 
@@ -12185,7 +12185,7 @@ People liked to highlight and focus on his crazy moments, but it was all good.
 
 He was just going through some stuff rn. *But yeah, we're back. We're so back.*
 
-## Chapter 65
+## Chapter 65 - Deathbringer's Perspective and the Troll's Elucidation
 
 Seat in front of a busy street. Check. Breath in, tension out.
 
@@ -13038,7 +13038,7 @@ He wielded a sword and advanced forward, heading down the steps.
 
 Who needed rest! Now was the time for battle!
 
-## Chapter 68
+## Chapter 68 - The Warders' Respite
 
 In the battle, the sun fell.
 
@@ -13398,7 +13398,7 @@ Matthew laughed.
 
 Tamer and Desmond watched him.
 
-## Chapter 69
+## Chapter 69 - The Illusion of Normalcy
 
 Matthew relaxed. Getting exercise almost everyday by fighting as an adventurer made his body much more fit, so even now, it was easy to laugh and breathe well.
 
@@ -13594,7 +13594,7 @@ He was so, so good at pretending and lying and suppressing all of these things c
 
 He was God.
 
-## Chapter 70
+## Chapter 70 - The Great Pretender
 
 
 After returning to the cottage, the simple-thinking Matthew looked at his book, having been keeping in touch with details overtime. This book included monsters, creatures, and humanoids of the land; various to-do lists that were messed about; simple sketches of the cottage; number of gold coins, items, and equipment he had or encountered and details about them; the numerous people that came to visit his cottage, each of whom he asked to write a form of signature; names of people he knew; things that he hated and vented with simple phrases and drawings because he didn't want to waste all the ink; among others.
@@ -13793,7 +13793,7 @@ He saw a goblin walking up.
 
 He walked outside like a normal man and greeted the goblin like he would with a cat: "Hello, Goblin! How are you doing?" And he treated all cats like people.
 
-## Chapter 71
+## Chapter 71 - The Descent and the Resolve
 
 The goblin struck him and attempted to kill him. "Disgusting, disgusting, disgusting!" it said.
 
@@ -14061,7 +14061,7 @@ He wanted to be honest for once.
 
 The guards then brought him back to his prison, having only allowed him to visit Sophia's grave for the time.
 
-## Chapter 72
+## Chapter 72 - Becoming
 
 
 The cries for Matthew only grew louder.
@@ -14236,7 +14236,7 @@ The tones their little mouths and bodies wielded conveyed the greatest mysteries
 
 That crisp happy sun never let them down.
 
-## Chapter 73
+## Chapter 73 - The Gathering Storm
 
 Matthew stood like a monkey in the horizon, creating tiny little orbs of light. He shot them toward the horizon.
 
@@ -14521,7 +14521,7 @@ Goblin 2 cast [Red Bite], dealing 18 physical damage.
 
 
 
-## Chapter 74
+## Chapter 74 - The Unseen Challenge
 
 Later, after Luke and his three fellows dispatched the goblins, they stood as tiny figures.
 
