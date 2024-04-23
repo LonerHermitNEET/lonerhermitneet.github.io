@@ -8,7 +8,7 @@ theme = 'huge-book'
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'auto'
 
-
+ BookSection = "*"
   # (Optional, default January 2, 2006) Configure the date format used on the pages
   # - In git information
   # - In blog posts
