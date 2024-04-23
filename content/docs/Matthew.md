@@ -894,21 +894,21 @@ As soon as the adventurers finished, Matthew left with them.
 
 Many days later, he remembered his stats, and since it had been his third week in this world, he was given a random quest by the [System].
 
-Quest: Goblin Slaying Spree
+**Quest: Goblin Slaying Spree**
 
-Objective: Eliminate 5 goblins within the next 50 minutes.
+**Objective: Eliminate 5 goblins within the next 50 minutes.**
 
-Reward:
+**Reward:**
 
-- Experience Points (XP) Boost
+**- Experience Points (XP) Boost**
 
-- Rare Loot Drop Chance Increase
+**- Rare Loot Drop Chance Increase**
 
-- Gold Coins
+**- Gold Coins**
 
-- Exclusive Goblin Slayer Title
+**- Exclusive Goblin Slayer Title**
 
-Matthew responded with a brilliant smile.
+**Matthew responded with a brilliant smile.**
 
 # Chapter 5 - Goblin Slayer's Odyssey: From Poster to Quests and Unraveling Magic
 
@@ -1001,19 +1001,19 @@ Later, they noticed something: a hiding group of goblins.
 
 Having been detected, hundreds of goblins attacked them head-on, and Matthew received his first quest. This came after three weeks passed since he came to this world.
 
-Quest: Goblin Slaying Spree
+**Quest: Goblin Slaying Spree**
 
-Objective: Eliminate 5 goblins within the next 50 minutes.
+**Objective: Eliminate 5 goblins within the next 50 minutes.**
 
-Reward:
+**Reward:**
 
-- Experience Points (XP) Boost
+**- Experience Points (XP) Boost**
 
-- Rare Loot Drop Chance Increase
+**- Rare Loot Drop Chance Increase**
 
-- Gold Coins
+**- Gold Coins**
 
-- Exclusive Goblin Slayer Title
+**- Exclusive Goblin Slayer Title**
 
 Matthew responded with a brilliant smile.
 
@@ -1047,7 +1047,7 @@ Even when this happened, goblins and adventurers outside of the artillery and vo
 
 Matthew took advantage of the goblins' chaos and confusion, killing four more heavily wounded goblins.
 
-Awesome goblin-slaying skills, adventurer! Your relentless assault on those four goblins deserves major kudos. Brace yourself for a whopping 4+ XP—consider it your well-earned reward for triumphing over those mischievous creatures! 🌟
+**Awesome goblin-slaying skills, adventurer! Your relentless assault on those four goblins deserves major kudos. Brace yourself for a whopping 4+ XP—consider it your well-earned reward for triumphing over those mischievous creatures! 🌟**
 
 After this battle ended and the adventurers had time to clean up, rest, and discuss the distribution of profits, the golem maker who started this whole fiasco was brought into question and executed.
 
@@ -1069,27 +1069,27 @@ However, since he had certain buffs on him, a week after he got his new job, he 
 
 But first, he assessed the rewards he got for the goblin quest.
 
-🏆 Quest Completed: Goblin Slaying Spree
+**🏆 Quest Completed: Goblin Slaying Spree**
 
-Congratulations, brave adventurer! Your relentless efforts in the Goblin Slaying Spree have triumphed, marking a significant achievement on your journey.
+**Congratulations, brave adventurer! Your relentless efforts in the Goblin Slaying Spree have triumphed, marking a significant achievement on your journey.**
 
-🎯 Objective Achieved:
+**🎯 Objective Achieved:**
 
-- Eliminated 5 goblins within the allotted 50 minutes.
+**- Eliminated 5 goblins within the allotted 50 minutes.**
 
-🎁 Rewards Earned:
+**🎁 Rewards Earned:**
 
-- Experience Points (XP) Boost: Your dedication in the Goblin Slaying Spree has earned you 100 valuable experience, boosting your progression on the path to mastery.
+**- Experience Points (XP) Boost: Your dedication in the Goblin Slaying Spree has earned you 100 valuable experience, boosting your progression on the path to mastery.**
 
-- Rare Loot Drop Chance Increase: Your prowess in goblin elimination has attracted the favor of fortune. Your chances of obtaining rare and valuable loot have now significantly risen.
+**- Rare Loot Drop Chance Increase: Your prowess in goblin elimination has attracted the favor of fortune. Your chances of obtaining rare and valuable loot have now significantly risen.**
 
-Gold Coins: A well-deserved bounty of 5 gold coins for your successful goblin hunting spree. Spend them wisely on your continued adventures.
+**Gold Coins: A well-deserved bounty of 5 gold coins for your successful goblin hunting spree. Spend them wisely on your continued adventures.**
 
-- Exclusive Goblin Slayer Title: With your outstanding performance, you've earned the prestigious title of "Goblin Slayer." Display it proudly, as it symbolizes your expertise in eradicating these menacing creatures.
+**- Exclusive Goblin Slayer Title: With your outstanding performance, you've earned the prestigious title of "Goblin Slayer." Display it proudly, as it symbolizes your expertise in eradicating these menacing creatures.**
 
-Your bravery and skill have not only made the realm safer but have also brought you recognition and rewards. May your future quests be as successful as this Goblin Slaying Spree!
+**Your bravery and skill have not only made the realm safer but have also brought you recognition and rewards. May your future quests be as successful as this Goblin Slaying Spree!**
 
-🔔 Notification: Your achievement in the Goblin Slaying Spree has been acknowledged across the realm. Fellow adventurers and NPCs alike now recognize your prowess as a formidable Goblin Slayer. Your reputation as a skilled warrior is on the rise!
+**🔔 Notification: Your achievement in the Goblin Slaying Spree has been acknowledged across the realm. Fellow adventurers and NPCs alike now recognize your prowess as a formidable Goblin Slayer. Your reputation as a skilled warrior is on the rise!**
 
 And he checked his stats.
 
@@ -1187,27 +1187,27 @@ According to Sophia, he had to pick up 200 flowers, 200 leaves, 200 fruits, and 
 
 But as soon as he was finished, the [System] finally handed him the kindness quest.
 
-Quest: Kindness Unleashed
+**Quest: Kindness Unleashed**
 
-Objective: Embark on a journey to spread kindness throughout the world. Complete the following tasks within the next 60 minutes:
+**Objective: Embark on a journey to spread kindness throughout the world. Complete the following tasks within the next 60 minutes:**
 
-- Healing Touch: Offer aid to three injured beings, whether they be mystical creatures, wandering adventurers, or distressed spirits.
+**- Healing Touch: Offer aid to three injured beings, whether they be mystical creatures, wandering adventurers, or distressed spirits.**
 
-- Nature's Embrace: Plant seeds of benevolence in three different locations to encourage the growth of vibrant, magical flora.
+**- Nature's Embrace: Plant seeds of benevolence in three different locations to encourage the growth of vibrant, magical flora.**
 
-- Melodic Serenity: Use a musical instrument to create a calming melody that resonates through the troubled areas, soothing both creatures and the environment.
+**- Melodic Serenity: Use a musical instrument to create a calming melody that resonates through the troubled areas, soothing both creatures and the environment.**
 
-- Wisdom Sharing: Engage in meaningful conversations with wise entities or beings, exchanging insights and kindness to uplift their spirits.
+**- Wisdom Sharing: Engage in meaningful conversations with wise entities or beings, exchanging insights and kindness to uplift their spirits.**
 
-Reward:
+**Reward:**
 
-- Experience Points (XP) Boost for embodying the essence of compassion and empathy.
+**- Experience Points (XP) Boost for embodying the essence of compassion and empathy.**
 
-- Rare Loot Drop Chance Increase as a result of the positive energy infused into your being.
+**- Rare Loot Drop Chance Increase as a result of the positive energy infused into your being.**
 
-- Gold Coins bestowed upon you by the grateful entities touched by your acts of kindness.
+**- Gold Coins bestowed upon you by the grateful entities touched by your acts of kindness.**
 
-- A mysterious token, imbued with magic, symbolizing your commitment to the cause of spreading goodwill.
+**- A mysterious token, imbued with magic, symbolizing your commitment to the cause of spreading goodwill.**
 
 "My goodness... This is so... I should be surprised, really, but at this point, I don't even know. It is what it is, huh. I've already reached the point where I'm normal with this now." He laughed.
 
@@ -1322,19 +1322,19 @@ Afterwards, he turned to his adventurer party and summarized what he had discuss
 
 On the day that his quest came, it felt as if the sounds of heaven graced the earth, releasing fumes of negative energy forming a figure in the distant fog. This figure soon became clear.
 
-Quest: Hobgoblin Menace
+**Quest: Hobgoblin Menace**
 
-Objective: Hunt down and eliminate the hobgoblin named "Mawkery" within the next 72 hours, as he poses a serious threat. He has mastered the art of blending in with human society and has already claimed the lives of several warlords.
+**Objective: Hunt down and eliminate the hobgoblin named "Mawkery" within the next 72 hours, as he poses a serious threat. He has mastered the art of blending in with human society and has already claimed the lives of several warlords.**
 
-Reward:
+**Reward:**
 
-Experience Points (XP) Boost
+**Experience Points (XP) Boost**
 
-Increased Chance of Rare Loot Drops
+**Increased Chance of Rare Loot Drops**
 
-Gold Coins
+**Gold Coins**
 
-Exclusive Hobgoblin Slayer Title
+**Exclusive Hobgoblin Slayer Title**
 
 Speaking of which, meanwhile, far away, Mawkery was standing among a group of bandits behind a giant bandit leader who barked at a group of adventurers.
 
@@ -1405,7 +1405,7 @@ In the meantime, in a tent nearby, the king of Matthew's city state watched Mawk
 
 "Right. Let's go..." He took a deep breath and cast the spell [Gloomcore], striking down the dragon in an instant with a beam of magic powered by negative emotion. This beam shifted between the colors violet, black, dark red, and green, ending with white feathery particles.
 
-Awesome job slaying that dragon! You've just earned yourself a whopping 12,000 XP! 🐉💥 Keep up the epic victories!
+**Awesome job slaying that dragon! You've just earned yourself a whopping 12,000 XP! 🐉💥 Keep up the epic victories!**
 
 The king smirked with his whole face, his wrinkles forming the darkest shadows.
 
@@ -1958,19 +1958,19 @@ Matthew said that he could help her, so he asked the most relevant question, "Do
 
 "I do. I'll show you right now."
 
-Quest: Necrotic Restoration
+**Quest: Necrotic Restoration**
 
-Objective: Seek out and retrieve the ancient tome of necrotic remedies hidden within the forbidden catacombs beneath the Old Oak Grove. Within the tome lies the knowledge necessary to stabilize and control the necrotic energy coursing through your right arm.
+**Objective: Seek out and retrieve the ancient tome of necrotic remedies hidden within the forbidden catacombs beneath the Old Oak Grove. Within the tome lies the knowledge necessary to stabilize and control the necrotic energy coursing through your right arm.**
 
-Reward:
+**Reward:**
 
-Mastery of Necrotic Arts: Unlock advanced necromantic techniques and spells, allowing you to harness the power of the undead with greater precision and control.
+**Mastery of Necrotic Arts: Unlock advanced necromantic techniques and spells, allowing you to harness the power of the undead with greater precision and control.**
 
-Necrotic Affinity Enhancement: Strengthen your connection to the realm of death, granting you heightened senses and awareness of necrotic energies in your surroundings.
+**Necrotic Affinity Enhancement: Strengthen your connection to the realm of death, granting you heightened senses and awareness of necrotic energies in your surroundings.**
 
-Necromancer's Sigil: Receive a mystical sigil imbued with protective enchantments, safeguarding you from harmful necrotic influences and bolstering your magical prowess.
+**Necromancer's Sigil: Receive a mystical sigil imbued with protective enchantments, safeguarding you from harmful necrotic influences and bolstering your magical prowess.**
 
-Invitation to the Necromancer's Council: Gain recognition and respect among fellow necromancers as a skilled practitioner. Earn the opportunity to join the prestigious Necromancer's Council, where you can share knowledge, seek guidance, and forge alliances with others of your kind.
+**Invitation to the Necromancer's Council: Gain recognition and respect among fellow necromancers as a skilled practitioner. Earn the opportunity to join the prestigious Necromancer's Council, where you can share knowledge, seek guidance, and forge alliances with others of your kind.**
 
 In light of this, Matthew became much more animated, finding something he could benefit from. This meant that it was in his best interests to help her out, making it a win-win situation for the both of them. "This is so good!" If he could find a kindred spirit who actually aligned with his goals and interests in her, then he could stave off the loss of his Earth family, life, and friends and the stress from the torturous hardship he experienced in this world.
 
@@ -2951,21 +2951,21 @@ Matthew followed along skipping.
 
 As soon as they completed the dungeon, Matthew got a quest.
 
-Adventure Awaits: Skeleton Festivity!
+**Adventure Awaits: Skeleton Festivity!**
 
-Embark on a thrilling quest to spread joy throughout the land by eliminating 25 mischievous skeletons within the next 8 hours. Happy belated 25th birthday!
+**Embark on a thrilling quest to spread joy throughout the land by eliminating 25 mischievous skeletons within the next 8 hours. Happy belated 25th birthday!**
 
-Rewards Await:
+**Rewards Await:**
 
-Experience Points (XP) Boost to elevate your journey to new heights!
+**Experience Points (XP) Boost to elevate your journey to new heights!**
 
-Rare Loot Drop Chance Increase, enhancing your chances of discovering treasures beyond imagination!
+**Rare Loot Drop Chance Increase, enhancing your chances of discovering treasures beyond imagination!**
 
-Gold Coins to enrich your coffers and fund your next grand adventure!
+**Gold Coins to enrich your coffers and fund your next grand adventure!**
 
-Exclusive Skeleton Slayer Title, earning you recognition as a hero among heroes in the realm!
+**Exclusive Skeleton Slayer Title, earning you recognition as a hero among heroes in the realm!**
 
-Join the jubilant fray and let the goblin-slaying festivities commence!
+**Join the jubilant fray and let the goblin-slaying festivities commence!**
 
 # Chapter 14 - Detaching From Ingrained Tendencies
 
@@ -5078,7 +5078,7 @@ The goblins were solo-killed one by one, not ever being able to relay the reinfo
 
 He celebrated the win.
 
-**ame: Matthew Cruz**
+**Name: Matthew Cruz**
 
 **Level: 42 -> 43**
 
@@ -5936,11 +5936,11 @@ Michel had a response: "You can help them, Matthew."
 
 Matthew looked at his notifications.
 
-🌟 Congratulations on your triumphant solo elimination of a level-26 bandit! Your combat prowess secures you a rewarding 100+ XP! 🌟 2+ skill points! 🎉
+**🌟 Congratulations on your triumphant solo elimination of a level-26 bandit! Your combat prowess secures you a rewarding 100+ XP! 🌟 2+ skill points! 🎉**
 
-🌟 Great job on that solo level-24 bandit takedown! Your combat expertise grants you a gratifying 100+ XP! 🌟 2+ skill points! 🎉
+**🌟 Great job on that solo level-24 bandit takedown! Your combat expertise grants you a gratifying 100+ XP! 🌟 2+ skill points! 🎉**
 
-🌟 Fantastic work on defeating that solo level-27 bandit! Your combat finesse warrants you a delightful 100+ XP! 🌟 3+ skill points! 🎉
+**🌟 Fantastic work on defeating that solo level-27 bandit! Your combat finesse warrants you a delightful 100+ XP! 🌟 3+ skill points! 🎉**
 
 "It's up to you," she continued.
 
@@ -6302,19 +6302,19 @@ He focused his efforts on listening to the [System]'s regularly supplied quests,
 
 He found one relevant quest.
 
-Quest Name: Investigating the Goblin Menace
+**Quest Name: Investigating the Goblin Menace**
 
-Quest Description: Rumors have been spreading about a new goblin threat led by a powerful leader known as Grimtusk. Reports suggest that these goblins have developed advanced magic spells, making them more dangerous than ever before. Your task is to investigate the source of this goblin resurgence, gather intelligence on their capabilities, and devise a strategy to counter their threat. Be cautious, as encountering Grimtusk and his minions will pose a significant challenge. Your bravery and tactical skills will be crucial in safeguarding the region from this growing menace.
+**Quest Description: Rumors have been spreading about a new goblin threat led by a powerful leader known as Grimtusk. Reports suggest that these goblins have developed advanced magic spells, making them more dangerous than ever before. Your task is to investigate the source of this goblin resurgence, gather intelligence on their capabilities, and devise a strategy to counter their threat. Be cautious, as encountering Grimtusk and his minions will pose a significant challenge. Your bravery and tactical skills will be crucial in safeguarding the region from this growing menace.**
 
-Objective 1: Investigate reports of increased goblin activity in the region.
+**Objective 1: Investigate reports of increased goblin activity in the region.**
 
-Objective 2: Gather intelligence on the goblins' new magic spells and their leader, Grimtusk.
+**Objective 2: Gather intelligence on the goblins' new magic spells and their leader, Grimtusk.**
 
-Objective 3: Develop a strategy to confront and neutralize the goblin threat.
+**Objective 3: Develop a strategy to confront and neutralize the goblin threat.**
 
-Rewards:
+**Rewards:**
 
-Experience points based on successful completion of objectives. Access to valuable information and resources related to goblin magic. Recognition and gratitude from the local authorities for your efforts in protecting the region. Potential discovery of rare loot or artifacts hidden by the goblins.
+**Experience points based on successful completion of objectives. Access to valuable information and resources related to goblin magic. Recognition and gratitude from the local authorities for your efforts in protecting the region. Potential discovery of rare loot or artifacts hidden by the goblins.**
 
 # Chapter 33 - Journey to the Unknown: Exploring Life Beyond the Battleground
 
@@ -6659,9 +6659,9 @@ The timing was off, and the pitch was the sword twanging all over the place. In 
 
 The showers of praise upon his being became apparent.
 
-Great job on defeating that solo goblin! Your expertise nets you a solid 7+ XP! 🎉
+**Great job on defeating that solo goblin! Your expertise nets you a solid 7+ XP! 🎉**
 
-Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉
+**Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉**
 
 He lacerated a single armored goblin three times consecutively, breaking its restarting momentum the same number of times. It was a familiar technique, which worked into his rhythm instinctively.
 
@@ -6871,35 +6871,35 @@ The goblins flew, wings guiding their flight to heavenly places. It hit the wall
 
 Scrappy raised his hand, his outfit bearing its fangs. "I am no man. I am God."
 
-🌟 You've summoned light from the shadows! +1 goblin rescued! +20 XP
+**🌟 You've summoned light from the shadows! +1 goblin rescued! +20 XP**
 
-🎉 Hooray! You've banished the darkness! +1 goblin liberated! +20 XP
+**🎉 Hooray! You've banished the darkness! +1 goblin liberated! +20 XP**
 
-🌈 Congratulations! You've illuminated the abyss! +1 goblin emancipated! +20 XP
+**🌈 Congratulations! You've illuminated the abyss! +1 goblin emancipated! +20 XP**
 
-🔥 Behold! Light emerges from the gloom! +1 goblin freed! +20 XP
+**🔥 Behold! Light emerges from the gloom! +1 goblin freed! +20 XP**
 
-🎊 Celebrate! You've dispelled the darkness! +1 goblin released! +20 XP
+**🎊 Celebrate! You've dispelled the darkness! +1 goblin released! +20 XP**
 
-💡 You've sparked life amidst the darkness! +1 goblin liberated! +20 XP
+**💡 You've sparked life amidst the darkness! +1 goblin liberated! +20 XP**
 
-🌠 Marvelous! You've vanquished the shadows! +1 goblin rescued! +20 XP
+**🌠 Marvelous! You've vanquished the shadows! +1 goblin rescued! +20 XP**
 
-🌞 Bravo! You've brought forth daylight! +1 goblin saved! +20 XP
+**🌞 Bravo! You've brought forth daylight! +1 goblin saved! +20 XP**
 
-🏮 A triumph! You've illuminated the night! +1 goblin emancipated! +20 XP
+**🏮 A triumph! You've illuminated the night! +1 goblin emancipated! +20 XP**
 
-🎆 Cheers! You've shattered the darkness! +1 goblin freed! +20 XP
+**🎆 Cheers! You've shattered the darkness! +1 goblin freed! +20 XP**
 
-🌄 Amazing! You've conquered the dusk! +1 goblin liberated! +20 XP
+**🌄 Amazing! You've conquered the dusk! +1 goblin liberated! +20 XP**
 
-✨ Splendid! You've summoned radiance! +1 goblin saved! +20 XP
+**✨ Splendid! You've summoned radiance! +1 goblin saved! +20 XP**
 
-🌅 Incredible! You've pierced through the gloom! +1 goblin rescued! +20 XP
+**🌅 Incredible! You've pierced through the gloom! +1 goblin rescued! +20 XP**
 
-🌌 Astounding! You've unveiled the stars! +1 goblin emancipated! +20 XP
+**🌌 Astounding! You've unveiled the stars! +1 goblin emancipated! +20 XP**
 
-🌇 Fantastic! You've painted the horizon! +1 goblin freed! +20 XP
+**🌇 Fantastic! You've painted the horizon! +1 goblin freed! +20 XP**
 
 He closed his eyes, embracing the confirmations.
 
@@ -8433,29 +8433,29 @@ The monsters retreated however, ending the fight with a stalemate. If the worth 
 
 At least Matthew got some XP.
 
-Great job on defeating that solo goblin! Your expertise nets you a solid 7+ XP! 🎉
+**Great job on defeating that solo goblin! Your expertise nets you a solid 7+ XP! 🎉**
 
-Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉
+**Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉**
 
-Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉
+**Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉**
 
-Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉
+**Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that spiders! Your victory earns you a hefty 2+ XP! 🎉
+**Well done on taking down that spiders! Your victory earns you a hefty 2+ XP! 🎉**
 
-Well done on taking down that spiders! Your victory earns you a hefty 2+ XP! 🎉
+**Well done on taking down that spiders! Your victory earns you a hefty 2+ XP! 🎉**
 
 He opened up his stats.
 
