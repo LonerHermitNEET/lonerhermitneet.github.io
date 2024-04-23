@@ -2,7 +2,6 @@
 title = 'Deeper Dive into Audience Engagement: An Informal Case Study of Two Fantasy Narratives'
 weight = 2
 date = 2024-01-14
-draft = true
 +++
 
 # Deeper Dive into Audience Engagement: An Informal Case Study of Two Fantasy Narratives
