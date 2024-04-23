@@ -73,15 +73,3 @@ This informal case study can serve as a precursor or foundational piece to a mor
 ### Conflicts of Interest and Study Limitations:
 
 Since I'm analyzing my own story, this analysis is bound to be subjective and contingent upon variables that elude my attention as an author. For one, I didn't address the impact of how the story is marketed or branded to a general reader base. The story was branded more like a power fantasy for a long time (from Chapter 1 to 64), which definitely impacted how the story was received. This is only one out of many things I have failed to address in this analysis, but that is also the nature of this limited informal study. In conclusion, any derivatives from this study need also to take into account the multifarious elements which presently evade my understanding. 
-
-{{< tabs "uniqueid" >}}
-{{< tab "MacOS" >}} # MacOS Content {{< /tab >}}
-{{< tab "Linux" >}} # Linux Content {{< /tab >}}
-{{< tab "Windows" >}} # Windows Content {{< /tab >}}
-{{< /tabs >}}
-
-{{ $image := resources.Get "images/image1.png" }}
-
-{{ $image := resources.Get "images/image2.png" }}
-
-{{ $image := resources.Get "images/image3.jpg" }}
