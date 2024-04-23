@@ -4,7 +4,6 @@ weight = 3
 date = 2024-01-14
 +++
 
-# Deeper Dive into Audience Engagement: An Informal Case Study of Two Fantasy Narratives
 
 ### Introduction:
 

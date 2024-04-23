@@ -27,12 +27,20 @@ h1 {
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
+    line-height: 10; 
 }
 
 h2, h3 {
     font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;
 }
 
+h2 {
+    padding-top: 1.5em; /* Adjust as needed */
+    padding-bottom: 1.5em; /* Adjust as needed */
+}
+
+h2:first-of-type {
+    padding-top: 0; /* Override padding-top for the first h2 */
+    padding-bottom: 0;
+}

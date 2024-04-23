@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'LonerHermitNEET'
 theme = 'huge-book'
-
+googleAnalytics = "G-T0HWLCK1F8"
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences

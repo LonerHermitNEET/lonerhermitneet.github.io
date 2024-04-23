@@ -4,8 +4,6 @@ weight = 4
 date = 2024-01-14T07:07:07+01:00
 +++
 
-# Matthew Status Report #1
-
 Good evening, everyone. 
 
 To start, the following images are the current stats with respect to the viewership decrease in the range between Chapter 1 and 2 and the range between Chapter 5 and 10 of the story currently titled "Matthew: The Epitome of Grace and Beauty - Intellectual LitRPG Isekai Novel". (This is subject to change.) 
